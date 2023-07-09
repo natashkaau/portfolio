@@ -1,5 +1,5 @@
 # Portfolio
-| Right Aligned | Left-Aligned  | Center Aligned  | Right Aligned |
+| # | Наименование проекта  | Описание  | Стек |
 |:------------- |:-------------:|:---------------:| -------------:|
 | Row 1         | **Bold**        | Cell 3        |Cell 3         |
 | Row 2         | *Italic*        | Cell 6        |Cell 3         |
