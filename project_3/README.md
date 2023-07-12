@@ -1,4 +1,4 @@
-<a name="lists"><h1>2. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</h1></a>
+<a name="lists"><h1>Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</h1></a>
 [ipynb](https://github.com/natashkaau/portfolio/blob/main/project_3/project_3.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 airports_nearest — расстояние до ближайшего аэропорта в метрах (м);  
