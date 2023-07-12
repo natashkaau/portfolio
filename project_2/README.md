@@ -1,4 +1,4 @@
-<a name="lists"><h1>2. Исследование надёжности заёмщиков — анализ банковских данных</h1></a>
+<a name="lists"><h1>Исследование надёжности заёмщиков — анализ банковских данных</h1></a>
 [ipynb](https://github.com/natashkaau/portfolio/blob/main/project_2/01e717a1-81dc-4a82-980b-36548f9fd215-Copy1.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 children — количество детей в семье;  
