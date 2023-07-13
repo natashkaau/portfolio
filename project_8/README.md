@@ -2,7 +2,7 @@
 [ipynb](https://github.com/natashkaau/portfolio/blob/fa21509d3a0bf11cb642bfe6555bdd6ba01b44c9/project_8/project_8.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 
-Таблица user:
+Таблица user:  
 user_id -	Идентификатор клиента, первичный ключ таблицы  
 lt_day - Количество дней «жизни» клиента  
 age -	Возраст клиента в годах  
