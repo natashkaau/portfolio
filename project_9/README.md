@@ -1,7 +1,7 @@
 <a name="lists"><h1>Анализ окупаемости рекламы приложения Procrastinate Pro+</h1></a>
 [ipynb](https://github.com/natashkaau/portfolio/blob/6d0825805189c66f8b49936890dbaa404e4d5071/project_9/project_9.ipynb)   
 <a name="lists"><h2>Данные</h2></a>
-Структура visits_info_short.csv:
+Структура visits_info_short.csv:  
 User Id — уникальный идентификатор пользователя,  
 Region — страна пользователя,  
 Device — тип устройства пользователя,   
