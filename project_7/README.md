@@ -1,13 +1,11 @@
-<a name="lists"><h1>Создание дашборда по пользовательским событиям карточек статей Яндекс Дзена
-</h1></a>
-[Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/MyViz_16674950242380/Dashboard1?publish=yes)
+
 <a name="lists"><h2>Данные</h2></a>
 Таблица dash_visits:  
 record_id — первичный ключ,  
 item_topic — тема карточки,   
 source_topic — тема источника,      
 age_segment — возрастной сегмент,      
-dt — дата и время,      
+dt — дата и время,       
 visits — количество событий.      
 <a name="lists"><h2>Задача</h2></a>
 Подготовить дашборд и ответить на вопросы с помощью него:  
