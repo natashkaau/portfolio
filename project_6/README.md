@@ -22,7 +22,7 @@ seats — количество посадочных мест
 •Python     
 •Pandas    
 •Matplotlib  
-•Seaborn
+•Seaborn  
 •Plotly  
 •Предобработка данных  
 •Исследовательский анализ данных  
