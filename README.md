@@ -15,6 +15,6 @@ Portfolio
 | 10.| [Исследование базы данных сервиса Stackoverflow](https://github.com/natashkaau/portfolio/tree/a0c64a7383eebb9b200e5f8c9d8f211198a6a6f0/project_10) | Исследование данных, выгрузки данных с помощью SQL, расчет продуктовых метрик и визуализация |Python, Pandas, Matplotlib, SQL, SQLAlchemy, Seaborn|
 | 11.| [Исследование опроса клиентов телекомунникацонной компании](https://github.com/natashkaau/portfolio/tree/c9a63a6c162470b5f7f83ae842d42ac4b55eec97/project_11) | Предварительный анализ тарифов на небольшой выборке клиентов |SciPy, Python, Pandas, Matplotlib, NumPy, Seaborn|
 | 12.| [Приоритизация гипотез по увеличению выручки в интернет-магазине — оценка результатов A/B теста](https://github.com/natashkaau/portfolio/blob/b4dc0ad1566d2480357361871fbfe022f99bea30/project_12/README.md) | Изучение данных и гипотез, приоритизация гипотез при помощи фрейморков, анализ A/B-теста |SciPy, Python, Pandas, Matplotlib, NumPy, Seaborn|
-| 13.| [Название проекта](ссылка на папку с проектом) | Cell 9 |Cell 3|
+| 13.| [Прогнозирование вероятности оттока пользователей для фитнес-центров](https://github.com/natashkaau/portfolio/tree/5686316fe584ad38b4907474c1a07daa2b2c7bbe/project_13) | Проведение анализа и подготовка плана действий по удержанию клиентов |Python, Pandas, Scikit-learn, Matplotlib, NumPy, Seaborn|
 | 14.| [Название проекта](ссылка на папку с проектом) | Cell 9 |Cell 3|
 | 15.| [Название проекта](ссылка на папку с проектом) | Cell 9 |Cell 3|
