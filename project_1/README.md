@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/main/project_1/db80ae87-9f8a-4eea-9ff0-54343dbfaa4e.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/blob/e42254c5c0bb8eeef9aa14a59ff2bac6a2b62653/project_1/project_1.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 userID — идентификатор пользователя;  
 Track — название трека;  
