@@ -1,5 +1,5 @@
 <a name="lists"><h1>Анализ A/B-теста</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/112a5a8bee6c098327db578ad7401db14c4a9b7c/project_16/project_16.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_16/project_16.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 Файл ab_project_marketing_events содержит информацию о маркетинговых событиях на 2020 год.  
 
