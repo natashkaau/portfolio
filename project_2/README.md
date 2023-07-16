@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование надёжности заёмщиков — анализ банковских данных</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/c28bf2ad079f8e4066e6f2f79a92725a4507172c/project_2/project_2.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_2/project_2.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 children — количество детей в семье;  
 days_employed — общий трудовой стаж в днях;  
