@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование опроса клиентов телекомунникацонной компании</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/87c33c37b7884b9d17a65e5b0418979471aded14/project_11/project_11.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_11/project_11.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 Таблица users — информация о пользователях:  
 user_id — уникальный идентификатор пользователя  
