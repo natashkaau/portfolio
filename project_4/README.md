@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование о рынке российского кинопроката</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/c3081b1f1dfd9493b37b20fc0ea38309a9f1c2ef/project_4/project_4.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_4/project_4.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 Таблица mkrf_movies:  
 title — название фильма;  
