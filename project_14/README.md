@@ -1,5 +1,5 @@
 <a name="lists"><h1>Выявление закономерностей, определяющих успешность игры в интернет-магазине «Стримчик». Проверка гипотез.</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/blob/fd362b897882113e6b0714b8e9bacad46a9c397c/project_14/project_14.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_14/project_14.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 - Name - название игры;  
 - Platform - платформа;  
