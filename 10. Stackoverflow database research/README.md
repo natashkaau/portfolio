@@ -1,6 +1,6 @@
 <a name="lists"><h1>Исследование базы данных сервиса Stackoverflow</h1></a>
-[ipynb(part_1)](https://github.com/natashkaau/portfolio/tree/main/project_10/project_10.ipynb)   
-[ipynb(part_2)](https://github.com/natashkaau/portfolio/tree/main/project_10/project_10(2).ipynb)   
+[ipynb(part_1)](https://github.com/natashkaau/portfolio/tree/main/10.%20Stackoverflow%20database%20research/project_10.ipynb)   
+[ipynb(part_2)](https://github.com/natashkaau/portfolio/tree/main/10.%20Stackoverflow%20database%20research/project_10(2).ipynb)   
 <a name="lists"><h2>Данные</h2></a>
 [Схема базы данных и описание базы](https://code.s3.yandex.net/SQL%20for%20data%20and%20analytics/ER/advanced_sql_project.pdf)
 <a name="lists"><h2>Задача</h2></a>
