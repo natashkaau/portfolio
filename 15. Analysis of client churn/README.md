@@ -1,5 +1,5 @@
 <a name="lists"><h1>Анализ оттока клиентов «Метанпром» банка.</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_15/project_15.ipynb)   
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/15.%20Analysis%20of%20client%20churn/project_15.ipynb)   
 [Презентация](https://disk.yandex.ru/i/MqoRrbDnkO8Lsg)  
 [Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/test_16861392480480/Dashboard1?publish=yes)   
 <a name="lists"><h2>Данные</h2></a>
