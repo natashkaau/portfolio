@@ -1,5 +1,5 @@
 <a name="lists"><h1>Создание дашборда по пользовательским событиям карточек статей Яндекс Дзена</h1></a>
-[Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/MyViz_16674950242380/Dashboard1?publish=yes)  
+[Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/MyViz_16674950242380/Dashboard1?publish=yes)   
 [Презентация](https://github.com/natashkaau/portfolio_yandex_practicum/blob/main/7.%20Dashboard%20creation/Presentation.pdf)
 <a name="lists"><h2>Данные</h2></a>
 Таблица dash_visits:  
