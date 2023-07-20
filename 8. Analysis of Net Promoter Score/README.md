@@ -1,7 +1,7 @@
 <a name="lists"><h1>Исследование опроса клиентов телекомунникацонной компании</h1></a>
 [ipynb](https://github.com/natashkaau/portfolio/tree/main/8.%20Analysis%20of%20Net%20Promoter%20Score/project_8.ipynb)  
 [Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/MyViz2_16679881823630/Dashboard1?publish=yes)  
-[Презентация](https://jing.yandex-team.ru/files/natali0105/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%207%20%283%29.pdf)  
+[Презентация](https://github.com/natashkaau/portfolio_yandex_practicum/blob/main/8.%20Analysis%20of%20Net%20Promoter%20Score/Presentation.pdf)  
 <a name="lists"><h2>Данные</h2></a>
 
 Таблица user:  
