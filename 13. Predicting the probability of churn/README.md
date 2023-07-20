@@ -1,5 +1,5 @@
 <a name="lists"><h1>Прогнозирование вероятности оттока пользователей для фитнес-центров</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_13/project_13.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/13.%20Predicting%20the%20probability%20of%20churn/project_13.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 Данные клиента за предыдущий до проверки факта оттока месяц:  
 
