@@ -1,5 +1,5 @@
 <a name="lists"><h1>Определение выгодного тарифа для телеком компании</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_11/project_11.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/11.%20Determination%20of%20a%20favorable%20tariff/project_11.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 Таблица users — информация о пользователях:  
 user_id — уникальный идентификатор пользователя  
