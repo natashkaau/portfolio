@@ -1,5 +1,5 @@
 <a name="lists"><h1>Анализ базы данных</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/project_17/project_17.ipynb)   
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/17.%20Analyzing%20the%20database/project_17.ipynb)   
 <a name="lists"><h2>Данные</h2></a>
 Таблица books  
 
