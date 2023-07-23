@@ -1,5 +1,5 @@
 <a name="lists"><h1>Анализ окупаемости рекламы приложения Procrastinate Pro+</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/9.%20Analysis%20of%20advertising%20payback/project_9.ipynb)   
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/9.%20Analysis%20of%20advertising%20payback/advertising_project.ipynb)   
 <a name="lists"><h2>Данные</h2></a>
 Структура visits_info_short.csv:  
 User Id — уникальный идентификатор пользователя,  
