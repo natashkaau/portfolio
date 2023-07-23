@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование опроса клиентов телекомунникацонной компании</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/8.%20Analysis%20of%20Net%20Promoter%20Score/project_8.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/8.%20Analysis%20of%20Net%20Promoter%20Score/NPS_project.ipynb)  
 [Дашборд](https://public.tableau.com/app/profile/natashkaa.d/viz/MyViz2_16679881823630/Dashboard1?publish=yes)  
 [Презентация](https://github.com/natashkaau/portfolio_yandex_practicum/blob/main/8.%20Analysis%20of%20Net%20Promoter%20Score/Presentation.pdf)  
 <a name="lists"><h2>Данные</h2></a>
