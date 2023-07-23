@@ -1,6 +1,6 @@
 <a name="lists"><h1>Приоритизация гипотез по увеличению выручки в интернет-магазине —
 оценка результатов A/B теста</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/12.%20AB%20testing/project_12.ipynb)  
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/12.%20AB%20testing/AB_test_project.ipynb)  
 <a name="lists"><h2>Данные</h2></a>
 В файле hypothesis.csv 9 гипотез по увеличению выручки интернет-магазина с указанными параметрами Reach, Impact, Confidence, Effort.  
 
