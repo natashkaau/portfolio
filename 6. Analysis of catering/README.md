@@ -1,6 +1,6 @@
 <a name="lists"><h1>Исследования рынка общепита в Москве для принятия решения об
 открытии нового заведения</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/6.%20Analysis%20of%20catering/project_6.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/6.%20Analysis%20of%20catering/public_catering_project.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 name — название заведения;  
 address — адрес заведения;  
