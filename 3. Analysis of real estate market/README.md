@@ -1,5 +1,5 @@
 <a name="lists"><h1>Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/3.%20Analysis%20of%20real%20estate%20market/project_3.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/3.%20Analysis%20of%20real%20estate%20market/real_estate_project.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 airports_nearest — расстояние до ближайшего аэропорта в метрах (м);  
 balcony — число балконов;  
