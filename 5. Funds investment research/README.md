@@ -1,5 +1,5 @@
 <a name="lists"><h1>Исследование данных об инвестиции венчурных фондов в компании-стартапы</h1></a>
-[ipynb](https://github.com/natashkaau/portfolio/tree/main/5.%20Funds%20investment%20research/project_5.ipynb)
+[ipynb](https://github.com/natashkaau/portfolio/tree/main/5.%20Funds%20investment%20research/investments_project.ipynb)
 <a name="lists"><h2>Данные</h2></a>
 [Схема базы данных и описание базы](https://code.s3.yandex.net/SQL%20for%20data%20and%20analytics/ER/basic_sql_project.pdf)
 <a name="lists"><h2>Задача</h2></a>
